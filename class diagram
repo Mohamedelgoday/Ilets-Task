@@ -1,0 +1,15 @@
+class Action_Score:
+    Grammer_Score=0
+    Lexis_Score=0
+
+    def grammerScore(Text=''):
+        return score
+
+    def lexisScore(Text=""):
+        return score
+
+    def changeColor(Text=''):
+
+    def getComment(Grammer_Score=0,Lexis_Score=0):
+        return comment
+
